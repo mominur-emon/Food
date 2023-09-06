@@ -1,3 +1,11 @@
+# Food
+ I focus on developing JavaScript in the project and using the array filter technique to exclude specific food types and price ranges in this release. It's mobile and different device responsive by design.
+ Using: React.js, JavaScript, Tailwind CSS, HTML.
+
+
+[Click here to see the Project](https://mominur-emon.github.io/Food/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
